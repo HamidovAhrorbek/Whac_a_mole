@@ -2,6 +2,7 @@
 
 A simple browser-based **Whac-a-Mole** game built using HTML, CSS, and JavaScript. The goal is to click on the mole as it randomly appears on the grid before time runs out. Perfect for practicing DOM manipulation and event handling!
 
+
 📸 Demo
 
 <img width="2560" height="1600" alt="Screenshot 2025-07-21 at 4 37 29 PM" src="https://github.com/user-attachments/assets/5ff2d72b-cb16-46f5-aa0b-f2f35cb53bbe" />
